@@ -1,0 +1,4 @@
+node_modules/
+*.ppm
+.env
+.DS_Store
